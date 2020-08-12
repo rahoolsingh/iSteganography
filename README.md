@@ -21,7 +21,7 @@ Please make sure the following:
     4. Put the image and files in a same New Folder
     5. Run this script in cmd (as admin)
 	
-Credit:
+Credit: 
 	Rahul Kumar Singh
 	https://rahulsingh.netlify.com
 	write to me at : 
