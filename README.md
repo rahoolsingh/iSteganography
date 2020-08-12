@@ -14,6 +14,8 @@ How to use:
 	python iSteganography.py
 
 Description:
+Please make sure the follwing things:
+1. Note the file extension of your image
 Please make sure the following:
     1. Note the file extension of your image
     2. Make a RAR using (WinRAR) of your secret files
