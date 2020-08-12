@@ -9,21 +9,19 @@ How to use:
 2. Open cmd (Command Prompt) as Administrator*
 3. Navigate to the folder containing iSteganography.py
 4. run the script using this command:
-	python3 iSteganography.py
+python3 iSteganography.py
 			or
-	python iSteganography.py
+python iSteganography.py
 
 Description:
-Please make sure the follwing things:
-1. Note the file extension of your image
 Please make sure the following:
-    1. Note the file extension of your image
-    2. Make a RAR using (WinRAR) of your secret files
-    3. Make sure you have WinRAR installed on your System
-    4. Put the image and files in a same New Folder
-    5. Run this script in cmd (as admin)
+1. Note the file extension of your image
+2. Make a RAR using (WinRAR) of your secret files
+3. Make sure you have WinRAR installed on your System
+4. Put the image and files in a same New Folder
+5. Run this script in cmd (as admin)
 	
 Credit: 
-	Rahul Kumar Singh
-	https://rahulsingh.netlify.com
-	write to me at : 
+Rahul Kumar Singh
+https://rahulsingh.netlify.com
+write to me at : 
