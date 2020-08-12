@@ -1,7 +1,7 @@
 https://github.com/iamSinghRahul/iSteganography.git
 
 ##### iSteganography.py is a script made with Python.
-![alt text](https://filebin.net/9ivl36dmpy6inrxf/Capture.JPG?t=8g5efwe9)
+![iStagnography](https://github.com/iamSinghRahul/src/blob/master/iStagnography.JPG)
 ##### This script can be used to Steganograph a .rar file with an image file.
 ##### You can use the script to share/protect any message/file with/from anyone.
 
