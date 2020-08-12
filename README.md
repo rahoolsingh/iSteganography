@@ -9,8 +9,9 @@ How to use:
 2. Open cmd (Command Prompt) as Administrator*
 3. Navigate to the folder containing iSteganography.py
 4. run the script using this command:
+
 python3 iSteganography.py
-			or
+          or
 python iSteganography.py
 
 Description:
