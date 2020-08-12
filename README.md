@@ -11,7 +11,7 @@ How to use:
 4. run the script using this command:
 
 python3 iSteganography.py
-          or
+or
 python iSteganography.py
 
 Description:
