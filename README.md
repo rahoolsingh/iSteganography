@@ -14,7 +14,7 @@ https://github.com/iamSinghRahul/iSteganography.git
 3. Navigate to the folder containing iSteganography.py
 4. run the script using this command:
 
-   ``` python3 iSteganography.py```
+   ##### ``` python3 iSteganography.py```
    #####  If the above command does'nt work, Try this: ``` python iSteganography.py```
 
 
