@@ -2,7 +2,7 @@ https://github.com/iamSinghRahul/iSteganography.git
 
 ##### Supported Platforms:
 ![support](https://singhrahul.netlify.app/windows.png)
-##### iSteganography.py is a script made with Python.
+##### iSteganography.py is a script made with Python 3.
 ![iStagnography](https://singhrahul.netlify.app/iStagnography.jpg)
 ##### This script can be used to Steganograph a .rar file with an image file.
 ##### You can use the script to share/protect any message/file with/from anyone.
