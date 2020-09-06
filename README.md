@@ -9,7 +9,7 @@ https://github.com/iamSinghRahul/iSteganography.git
 
 # How to use:
 ### Follow These Steps:
-1. Donload the file on your Computer.
+1. Download the file on your Computer.
 2. Open cmd (Command Prompt) as Administrator*, if does'nt work normally.
 3. Navigate to the folder containing iSteganography.py
 4. run the script using this command:
