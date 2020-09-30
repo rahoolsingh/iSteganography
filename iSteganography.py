@@ -40,33 +40,36 @@ description='Description: Please make sure the following:\n\
     2. Make a RAR using (WinRAR) of your secret files\n\
     3. Make sure you have WinRAR installed on your System\n\
     4. Put the image and files in a same New Folder\n\
-    5. Run this script in cmd (as admin)'
+    5. Run the script in cmd\n\
+    \nTroubleshoot:\n\
+    If the script is not working then try to run the script with Administrator permission.'
 print(description)
+
 
 for i in range(1):
     runner("Enter Input Folder Path",code)
-    inFolder=input("\nEnter the path/of/Folder_Containg_Images_&_RAR/: ",)
+    inFolder=input("\nEnter The Path/of/Folder_Containg_Images_&_RAR/: ",)
     if inFolder=="":
         print("Invalid Path!")
         runner("Invalid Folder Path, Please Try Again", code)
         break
 
     runner("What's the Image Name",code)
-    image=input("\nEnter the name of Image File (eg. pic.jpeg): ")
+    image=input("\nEnter The Name of Image File (eg. pic.jpeg): ")
     if image=="":
         print("Image File Name Missing!")
-        runner("Image File Name is empty, Please Try Again", code)
+        runner("Image File Name is Empty, Please Try Again", code)
         break
 
     runner("What's the file name",code)
-    rar=input("\nEnter the name of RAR File (eg. secret.rar): ")
+    rar=input("\nEnter The Name of RAR File (eg. secret.rar): ")
     if rar=="":
         print("RAR File Missing!")
-        runner("RAR File Name is empty, Please Try Again", code)
+        runner("RAR File Name is Empty, Please Try Again", code)
         break
 
     runner("enter destination folder path",code)
-    outFolder=input("\nEnter the path/of/Output_Folder/ (Press Enter For Same as Input): ")
+    outFolder=input("\nEnter The Path/of/Output_Folder/ (Press Enter For Same as Input): ")
 
     if outFolder=="":
         outFolder=inFolder
@@ -94,14 +97,14 @@ for i in range(1):
 
         if predict in a:
             os.system("cls")
-            print("Successful")
-            runner("mission successful", code)
+            print("Yeah! We did it 😉")
+            runner("Yeah! mission successful", code)
         else:
             os.system("cls")
-            print("Error: Something went wrong")
-            runner("Something Went Wrong.", code)
+            print("Error: Something went wrong 😢\nPlease Try Again")
+            runner("Oops, Something Went Wrong.", code)
         f.close()
     check()
 
-runner("Thanks for downloading this script",code2)
-runner("Credit : MADE BY RK",code2)
+runner("Thanks for downloading my script",code2)
+runner("MADE BY RK",code2)
