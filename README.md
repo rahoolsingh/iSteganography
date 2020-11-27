@@ -4,7 +4,7 @@ https://github.com/iamSinghRahul/iSteganography.git
 ![support](https://singhrahul.netlify.app/windows.png)
 ##### iSteganography.py is a script made with Python 3.
 ![iStagnography](https://singhrahul.netlify.app/iStagnography.jpg)
-##### This script can be used to Steganograph a .rar file with an image file.
+##### This script can be used to [Bind/Hide](https://en.wikipedia.org/wiki/Steganography) a .rar file with an image file.
 ##### You can use the script to share/protect any message/file with/from anyone.
 
 # How to use:
@@ -24,7 +24,7 @@ https://github.com/iamSinghRahul/iSteganography.git
     2. Make a RAR using (WinRAR) of your secret files
     3. Make sure you have WinRAR installed on your System
     4. Put the image and files in a same New Folder
-    5. Run this script in cmd (as admin)
+    *5. Run this script in cmd (as admin)
 	
 # Credit:
 ### Rahul Kumar Singh
