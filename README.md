@@ -7,6 +7,11 @@ https://github.com/iamSinghRahul/iSteganography.git
 ##### This script can be used to [Bind/Hide](https://en.wikipedia.org/wiki/Steganography) a [RAR](https://www.rarlab.com/rar_file.htm)(Compressed File Format) file with an image file.
 ##### You can use the script to share/protect any message/file with/from anyone.
 
+# Requirements:
+1. Windows PC
+2. WinRAR
+3. Python3
+
 # How to use:
 ### Follow These Steps:
 1. Download the file on your Computer.
