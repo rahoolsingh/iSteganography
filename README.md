@@ -1,5 +1,3 @@
-##### Supported Platforms:
-![support](https://singhrahul.netlify.app/windows.png)
 ##### iSteganography.py is a script made with Python 3.
 ![iStagnography](https://singhrahul.netlify.app/iStagnography.jpg)
 ##### This script can be used to [Bind/Hide](https://en.wikipedia.org/wiki/Steganography) a [RAR](https://www.rarlab.com/rar_file.htm)(Compressed File Format) file with an image file.
@@ -28,6 +26,9 @@
     3. Make sure you have WinRAR installed on your System
     4. Put the image and files in a same New Folder
     *5. Run this script in cmd (as admin)
+    
+##### Supported Platforms:
+![support](https://singhrahul.netlify.app/windows.png)
 	
 # Credit:
 ### Rahul Kumar Singh
