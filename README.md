@@ -1,4 +1,4 @@
-https://github.com/iamSinghRahul/iSteganography.git
+<a href="https://github.com/iamSinghRahul/iSteganography/blob/master/iSteganography.py" download="iSteganography.py">Download</a>
 
 ##### Supported Platforms:
 ![support](https://singhrahul.netlify.app/windows.png)
