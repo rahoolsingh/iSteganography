@@ -1,5 +1,5 @@
 ##### iSteganography.py is a script made with Python 3.
-![iStagnography](https://singhrahul.netlify.app/iStagnography.jpg)
+![iSteganography](https://singhrahul.netlify.app/iStagnography.jpg)
 ##### This script can be used to [Bind/Hide](https://en.wikipedia.org/wiki/Steganography) a [RAR](https://www.rarlab.com/rar_file.htm)(Compressed File Format) file with an image file.
 ##### You can use the script to share/protect any message/file with/from anyone.
 
