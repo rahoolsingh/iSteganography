@@ -10,7 +10,7 @@ print('''
    ##           ##      ##       ##    ##    ##    ##
 ########    ######      ##       ##    ##    ########
 ''')
-print("            The Ultimate Stagnography Tool\n")
+print("           The Ultimate Stagnography Tool\n")
 # Speaking code start here
 code= 'dim speechobject\n\
 set speechobject=createobject("sapi.spvoice")\n\
