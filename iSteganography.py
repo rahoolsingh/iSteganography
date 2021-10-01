@@ -3,6 +3,14 @@ import os
 os.system("color 6")
 os.system("cls")
 
+print('''
+########    ######   #########   ########    ########
+   ##       ##          ##       ##    ##    ##
+   ##       ######      ##       ########    ##  ####
+   ##           ##      ##       ##    ##    ##    ##
+########    ######      ##       ##    ##    ########
+''')
+print("            The Ultimate Stagnography Tool\n")
 # Speaking code start here
 code= 'dim speechobject\n\
 set speechobject=createobject("sapi.spvoice")\n\
@@ -27,7 +35,7 @@ def runner(ans, code):
 # speaking code end here
 
 
-print("\tStag - The Stegenography Script")
+print("Stag - The Stegenography Script")
 print("\t\tMade in Python")
 print("-"*55)
 
