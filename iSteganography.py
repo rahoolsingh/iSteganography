@@ -1,5 +1,8 @@
 import os
 
+os.system("color 6")
+os.system("cls")
+
 print('''
 ########    ######   #########   ########    ########
    ##       ##          ##       ##    ##    ##
@@ -7,9 +10,7 @@ print('''
    ##           ##      ##       ##    ##    ##    ##
 ########    ######      ##       ##    ##    ########
 ''')
-os.system("color 6")
-os.system("cls")
-
+print("            The Ultimate Stagnography Tool\n")
 # Speaking code start here
 code= 'dim speechobject\n\
 set speechobject=createobject("sapi.spvoice")\n\
