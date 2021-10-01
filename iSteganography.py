@@ -1,5 +1,12 @@
 import os
 
+print('''
+########    ######   #########   ########    ########
+   ##       ##          ##       ##    ##    ##
+   ##       ######      ##       ########    ##  ####
+   ##           ##      ##       ##    ##    ##    ##
+########    ######      ##       ##    ##    ########
+''')
 os.system("color 6")
 os.system("cls")
 
@@ -27,7 +34,7 @@ def runner(ans, code):
 # speaking code end here
 
 
-print("\tStag - The Stegenography Script")
+print("Stag - The Stegenography Script")
 print("\t\tMade in Python")
 print("-"*55)
 
